@@ -45,7 +45,7 @@
 
 # 실습 환경
 
-[구글 Colab](https://colab.google/)
+[구글 Colab](https://colab.research.google.com/)
 
 0. 구글 로그인
 1. Open Colab
